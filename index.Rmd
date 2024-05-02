@@ -1,0 +1,63 @@
+---
+title: "1,500 scientists lift the lid on reproducibility"
+author: Monya Baker
+date: 25 May 2016
+output:
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Markdown {#markdown-header}
+## even smaller
+
+**bold text**   
+__This is bold too__  
+*this should be italics*  
+_this should be too_   
+X^2^ = Y^3^ \
+H~2~O  
+`c = 2.5
+x = 6
+`  
+~~This is struck out~~
+
+1. Item 1
+2. Item 2
+3. Item 3
+    a. Item 3 a
+    b. Item 3 b
+4. Item 4
+
+## Unordered lists
+* First item
+    * Four a
+* Second item
+
+
+[Link to top](#markdown-header) 
+
+[text of link](https://training.cam.ac.uk/bioinformatics/event-timetable)
+
+- [ ] Unchecked item
+- [x] Checked item
+
+! [R Logo](/home/participant/Desktop/Course_Materials/Untitled.png)
+
+### tables
+
+| Column 1 | Column 2 |
+|----------|----------:|
+| Item 1,1 | Item 1,2 |
+| Item 2,1 | Item 2,2 |
+
+> This is a block
+
+more text
+
+```
+print("Hello world")
+x <- 1+2
+print(x)
+```
+
